@@ -1,0 +1,20 @@
+body{
+    max-width: 4100px;
+}
+div.sign-up{
+    padding: 10px;
+    width: 56%;
+    margin: 0 auto;
+    background: rgba(0, 0, 0, 0.7)
+}
+
+label{
+    color: white
+}
+input#inputBirthDate {
+    height: 38px;
+}
+button.float{
+    position: relative;
+    left: 226px
+}
